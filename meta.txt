@@ -1,0 +1,21 @@
+Recommendation : Inserting one or more relevant keywords within your title tag will increase your Search Engine Ranking.
+Recommendation : Adding a few relevant keywords to the Description tag, will boost your chances of a good search engine ranking.
+
+Warning : Your keywords tag is currently 74 characters in length. Search engines look at the first 255 characters of this tag.
+Warning : Your description tag is currently 114 characters in length. Between 130 and 150 characters is optimal. Oversized descriptions are ignored or cut off.
+
+<meta name="keywords" CONTENT="Formula Vee,Vee,Dowson Racing,Dowson,Motor Racing,750MC,Club Racing,Sheane"> 
+<meta name="description" CONTENT="Information on the exploits of Tony Dowson in the Formula Vee championship and some advice info about Formula Vee."> 
+<meta name="author" CONTENT="Tony Dowson">
+<meta name="copyright" CONTENT="Tony Dowson">
+<meta name="url" CONTENT="http://www.dowsonracing.co.uk">
+<meta name="rating" CONTENT="General">
+<meta name="revisit-after" CONTENT="31 days">
+<meta name="robots" CONTENT="ALL">
+<meta name="distribution" CONTENT="Global">
+<meta http-equiv="content-language" CONTENT="en">
+<meta http-equiv="reply-to" CONTENT="tony@dowsonracing.co.uk">
+<meta http-equiv="pragma" CONTENT="cache">
+<meta http-equiv="Content-Type" CONTENT="text/html; charset=ISO-8859-1">
+<meta http-equiv="PICS-Label" content='(PICS-1.1 "http://www.weburbia.com/safe/ratings.htm" l r (s 0));>
+<meta name="GENERATOR" content="TopWebSite.co.uk Meta Generator">
