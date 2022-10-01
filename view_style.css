@@ -1,9 +1,8 @@
-<style>
-<!--
+
 body { font-family: verdana, arial;
 	font-size:9pt;
-	background-color: blue;
-        color: black}
+	background-color: darkblue;
+        color: white}
  H1   {font-size:18pt;
 	font-family:verdana,arial}
  H2   {font-size:15pt;
@@ -15,5 +14,4 @@ body { font-family: verdana, arial;
 	color: black}
  th   {font-size:10pt;
 	font-family:verdana,arial;
-	color: black}
-</style>
+	color: white}
